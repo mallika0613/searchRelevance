@@ -1,0 +1,20 @@
+How to Run
+
+Required packages:
+
+1. Pandas
+2. numpy
+3. Gensim
+4. Space
+5. Nltk
+
+Python Files:
+   
+Topic_modelling.py -  This file does topics computation. 
+topic_assignment.py - Each item is assigned with the topic based on the topic modelling results
+Search.py - Takes user input for search, created relavance score and return search results
+
+
+Run command:
+Python topic_assignment.py (For topics computation)
+Python search.py
